@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "CelSector",
+  "creator": "Magnani",
+  "filler_item_name": "Slimy Substance",
+  "death_link": true,
+  "starting_items": [
+    {"items": ["Level A1"], "yaml_option": ["level_1"]},
+    {"items": ["Level A2"], "yaml_option": ["level_2"]},
+    {"items": ["Level B1"], "yaml_option": ["level_3"]},
+    {"items": ["Level B2"], "yaml_option": ["level_4"]},
+    {"items": ["Level C1"], "yaml_option": ["level_5"]},
+    {"items": ["Level C2"], "yaml_option": ["level_6"]},
+    {"items": ["Laser Pistol (Weapon 1 Slot 1)"], "yaml_option": ["gun1_1"]},
+    {"items": ["Revolver (Weapon 1 Slot 2)"], "yaml_option": ["gun1_2"]},
+    {"items": ["Pistol (Weapon 1 Slot 3)"], "yaml_option": ["gun1_3"]},
+    {"items": ["Uzi (Weapon 2 Slot 1)"], "yaml_option": ["gun2_1"]},
+    {"items": ["Sub Machine Gun (Weapon 2 Slot 2)"], "yaml_option": ["gun2_2"]},
+    {"items": ["Auto Shotgun (Weapon 3 Slot 1)"], "yaml_option": ["gun3_1"]},
+    {"items": ["Two-Barrel Shotgun (Weapon 3 Slot 2)"], "yaml_option": ["gun3_2"]},
+    {"items": ["Pump Action Shotgun (Weapon 3 Slot 3)"], "yaml_option": ["gun3_3"]},
+    {"items": ["Assault Rifle (Weapon 4 Slot 1)"], "yaml_option": ["gun4_1"]},
+    {"items": ["Carbine (Weapon 4 Slot 2)"], "yaml_option": ["gun4_2"]},
+    {"items": ["Machine Gun (Weapon 4 Slot 3)"], "yaml_option": ["gun4_3"]},
+    {"items": ["Sniper Rifle (Weapon 5 Slot 1)"], "yaml_option": ["gun5_1"]},
+    {"items": ["M1 Garand (Weapon 5 Slot 2)"], "yaml_option": ["gun5_2"]}
+  ]
+}

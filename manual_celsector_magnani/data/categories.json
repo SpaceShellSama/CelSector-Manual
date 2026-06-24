@@ -1,0 +1,12 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+  "Keycards": {"yaml_option": ["keycard"]},
+  "Save Rooms": {"yaml_option": ["savesanity"]},
+  "Modes": {"yaml_option": ["gallery_mode"]},
+  "No Stimulation": {"yaml_option": ["no_stimulation"]},
+  "No Corruption": {"yaml_option": ["no_corruption"]},
+  "Easy Struggle": {"yaml_option": ["easy_struggle"]},
+  "Max Belly Size": {"yaml_option": ["max_belly_size"]},
+  "Enemies": {"yaml_option": ["gallerysanity"]},
+  "Flashlight": {"yaml_option": ["flashlight"]}
+}

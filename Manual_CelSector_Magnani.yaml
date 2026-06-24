@@ -1,0 +1,274 @@
+﻿# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Manual_CelSector_Magnani Template
+
+game: Manual_CelSector_Magnani
+requires:
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_CelSector_Magnani:
+  ################
+  # Game Options #
+  ################
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-99: 0 # random value between 0 and 99
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
+    minimal: 0
+
+  goal:
+    # Choose your victory condition.
+    all levels completed!: 50
+    defeat the final boss!: 0
+
+  death_link:
+    # When you die, everyone who enabled death link dies. Of course, the reverse is true too.
+    'false': 50
+    'true': 0
+
+  ##########
+  # Levels #
+  ##########
+  level_1:
+    # Manually choose which levels to have access at the start of the game. If you choose 6 and have goal set as Beat Level C2 the game can be beaten on sphere 1.
+    # default is starting at Level A1
+    'false': 0
+    'true': 50
+
+  level_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  level_3:
+    # an Option
+    'false': 50
+    'true': 0
+
+  level_4:
+    # an Option
+    'false': 50
+    'true': 0
+
+  level_5:
+    # an Option
+    'false': 50
+    'true': 0
+
+  level_6:
+    # an Option
+    'false': 50
+    'true': 0
+
+  ################
+  # Starting Gun #
+  ################
+  gun1_1:
+    # Manually select which guns you can use from the start of the game, logic assumes you start with at least one gun.
+    # It's recommended to choose at least one number 1 weapon as to not immediately face ammo issues.
+    # The default starting gun is just the pistol.
+    'false': 50
+    'true': 0
+
+  gun1_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun1_3:
+    # an Option
+    'false': 0
+    'true': 50
+
+  gun2_1:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun2_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun3_1:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun3_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun3_3:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun4_1:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun4_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun4_3:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun5_1:
+    # an Option
+    'false': 50
+    'true': 0
+
+  gun5_2:
+    # an Option
+    'false': 50
+    'true': 0
+
+  ###############
+  # Extra Items #
+  ###############
+  no_stimulation:
+    # Add the "No Stimulation" cheat you unlock after beating the game to the pool of items
+    'false': 50
+    'true': 0
+
+  no_corruption:
+    # Add the "No Corruption" cheat you unlock after beating the game to the pool of items
+    'false': 50
+    'true': 0
+
+  easy_struggle:
+    # Add the "Easy Struggle" cheat you unlock after beating the game to the pool of items
+    'false': 50
+    'true': 0
+
+  max_belly_size:
+    # Add the "Max Belly Size" slider cheat you unlock after beating the game to the pool of items
+    'false': 50
+    'true': 0
+
+  gallery_mode:
+    # Whether or not acces to the Gallery Mode is an item shuffled into the pool, makes all of gallerysanity instantly accesible when got, has no real utility otherwise.
+    'false': 50
+    'true': 0
+
+  keycard:
+    # Wether or not you need items to progress through mid-level roadblocks (such as Keycards). As all doors will be unlocked requires certain familiarity with the game.
+    'false': 50
+    'true': 0
+
+  flashlight:
+    # Randomizes the flash light into the item pool. There is no logic attached to it so you might need to do rooms in the dark
+    'false': 50
+    'true': 0
+
+  ################
+  # Extra Checks #
+  ################
+  gallerysanity:
+    # Whether or not watching each enemy's attack animation until the end sends out a check.
+    'false': 50
+    'true': 0
+
+  savesanity:
+    # If turned on saving on each save point sends out a check.
+    'false': 50
+    'true': 0
+
+  ###########################
+  # Item & Location Options #
+  ###########################
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with the specified amount of these items. Example: "Bomb: 1"
+    {}
+
+  start_inventory_from_pool:
+    # Start with the specified amount of these items and don't place them in the world. Example: "Bomb: 1"
+    # 
+    # The game decides what the replacement items will be.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
+    []

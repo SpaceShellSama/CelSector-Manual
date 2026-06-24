@@ -1,0 +1,33 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.options.schema.json",
+  "user": {
+    "level_1": {"display_name": "Level A1(Upper A)", "type": "Toggle", "default": true, "group": "Levels", "description": ["Manually choose which levels to have access at the start of the game. If you choose 6 and have goal set as Beat Level C2 the game can be beaten on sphere 1.", "default is starting at Level A1"]},
+    "level_2": {"display_name": "Level A2 (Lower A)", "type": "Toggle", "default": false, "group": "Levels"},
+    "level_3": {"display_name": "Level B1 (Upper B)", "type": "Toggle", "default": false, "group": "Levels"},
+    "level_4": {"display_name": "Level B2 (Lower B)", "type": "Toggle", "default": false, "group": "Levels"},
+    "level_5": {"display_name": "Level C1 (Upper C)", "type": "Toggle", "default": false, "group": "Levels"},
+    "level_6": {"display_name": "Level C2 (Lower C)", "type": "Toggle", "default": false, "group": "Levels"},
+    "gun1_1": {"display_name": "Laser Gun (Slot 1 Weapon 1)", "type": "Toggle", "default": false, "group": "Starting Gun", "description": ["Manually select which guns you can use from the start of the game, logic assumes you start with at least one gun.", "It's recommended to choose at least one number 1 weapon as to not immediately face ammo issues.", "The default starting gun is just the pistol."]},
+    "gun1_2": {"display_name": "Revolver (Slot 1 Weapon 2)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun1_3": {"display_name": "Pistol (Slot 1 Weapon 3)", "type": "Toggle", "default": true, "group": "Starting Gun"},
+    "gun2_1": {"display_name": "Uzi (Slot 2 Weapon 1)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun2_2": {"display_name": "Submachine Gun (Slot 2 Weapon 2)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun3_1": {"display_name": "Tactical Shotgun (Slot 3 Weapon 1)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun3_2": {"display_name": "Two-Barrel Shotgun (Slot 3 Weapon 2)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun3_3": {"display_name": "Pump Action Shotgun (Slot 3 Weapon 3)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun4_1": {"display_name": "Assault Rifle (Slot 4 Weapon 1)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun4_2": {"display_name": "Carbine (Slot 4 Weapon 2)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun4_3": {"display_name": "Machine Gun (Slot 4 Weapon 3)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun5_1": {"display_name": "Sniper Rifle (Slot 5 Weapon 1)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "gun5_2": {"display_name": "Hunting Rifle (Slot 5 Weapon 2)", "type": "Toggle", "default": false, "group": "Starting Gun"},
+    "no_stimulation": {"display_name": "Shuffle No Stimulation", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Add the \"No Stimulation\" cheat you unlock after beating the game to the pool of items"]},
+    "no_corruption": {"display_name": "Shuffle No Corruption", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Add the \"No Corruption\" cheat you unlock after beating the game to the pool of items"]},
+    "easy_struggle": {"display_name": "Shuffle Easy Struggle", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Add the \"Easy Struggle\" cheat you unlock after beating the game to the pool of items"]},
+    "max_belly_size": {"display_name": "Shuffle Max Belly Size", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Add the \"Max Belly Size\" slider cheat you unlock after beating the game to the pool of items"]},
+    "gallerysanity": {"display_name": "Gallerysanity", "type": "Toggle", "default": false, "group": "Extra Checks", "description": ["Whether or not watching each enemy's attack animation until the end sends out a check."]},
+    "gallery_mode": {"display_name": "Gallery Mode", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Whether or not acces to the Gallery Mode is an item shuffled into the pool, makes all of gallerysanity instantly accesible when got, has no real utility otherwise."]},
+    "savesanity": {"display_name": "Save-sanity", "type": "Toggle", "default": false, "group": "Extra Checks", "description": ["If turned on saving on each save point sends out a check."]},
+    "keycard": {"display_name": "Mid-Level Roadblocks", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Wether or not you need items to progress through mid-level roadblocks (such as Keycards). As all doors will be unlocked requires certain familiarity with the game."]},
+    "flashlight": {"display_name": "Flashlight", "type": "Toggle", "default": false, "group": "Extra Items", "description": ["Randomizes the flash light into the item pool. There is no logic attached to it so you might need to do rooms in the dark"]}
+  }
+}

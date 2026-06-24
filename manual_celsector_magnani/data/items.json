@@ -1,0 +1,1549 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Level A1",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level A2",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level B1",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level B2",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level C1",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level C2",
+      "category": [
+        "Levels"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Laser Pistol (Weapon 1 Slot 1)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Revolver (Weapon 1 Slot 2)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Pistol (Weapon 1 Slot 3)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Uzi (Weapon 2 Slot 1)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sub Machine Gun (Weapon 2 Slot 2)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Auto Shotgun (Weapon 3 Slot 1)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Two-Barrel Shotgun (Weapon 3 Slot 2)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Pump Action Shotgun (Weapon 3 Slot 3)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Assault Rifle (Weapon 4 Slot 1)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Carbine (Weapon 4 Slot 2)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Machine Gun (Weapon 4 Slot 3)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Sniper Rifle (Weapon 5 Slot 1)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "M1 Garand (Weapon 5 Slot 2)",
+      "category": [
+        "Weapon"
+      ],
+      "sort-key": "2",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Back Hair Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 11",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 12",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 13",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 14",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 15",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 16",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Back Hair Slot 18",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 11",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 12",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Front Hair Slot 13",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tatoo Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tatoo Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Tatoo Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Lower Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Under Upper Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Socks Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shoes Slot 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Sleeves Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Gloves Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Gloves Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Gloves Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Gloves Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 1 ",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Bodysuit Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 1 ",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Pants Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 11",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 12",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 13",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 14",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Shirts Slot 15",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Head Accesories 11",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 1",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 2",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 3",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 4",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 5",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 6",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 7",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 8",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 9",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 10",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 11",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Face Accesories 12",
+      "category": [
+        "Clothing"
+      ],
+      "sort-key": "3",
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "No Stimulation",
+      "category": [
+        "No Stimulation"
+      ],
+      "sort-key": "4",
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "No Corruption",
+      "category": [
+        "No Corruption"
+      ],
+      "sort-key": "4",
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Easy Struggle",
+      "category": [
+        "Easy Struggle"
+      ],
+      "sort-key": "4",
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Max Belly Size Slider",
+      "category": [
+        "Max Belly Size"
+      ],
+      "sort-key": "4",
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Gallery Mode",
+      "category": [
+        "Modes"
+      ],
+      "sort-key": "5",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level A1 Keycard",
+      "category": [
+        "Keycards"
+      ],
+      "sort-key": "6",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Orange Keycard",
+      "category": [
+        "Keycards"
+      ],
+      "sort-key": "6",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Green Keycard",
+      "category": [
+        "Keycards"
+      ],
+      "sort-key": "6",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Blue Keycard",
+      "category": [
+        "Keycards"
+      ],
+      "sort-key": "6",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Purple Keycard",
+      "category": [
+        "Keycards"
+      ],
+      "sort-key": "6",
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Level Token",
+      "category": [
+        "Token"
+      ],
+      "count": 6,
+      "sort-key": "7",
+      "local": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Flashlight",
+      "category": [
+        "Flashlight"
+      ],
+      "count": 1,
+      "useful": true
+    },
+    {
+      "name": "Clothing Preset A",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset B",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset C",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset D",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset E",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset F",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset G",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset H",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset I",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset J",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset K",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Clothing Preset L",
+      "category": [
+        "Clothing"
+      ],
+      "count": 1,
+      "filler": true
+    },
+    {
+      "name": "Turn off the water flow",
+      "category": [
+        "Keycards"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "B2 Door Generator 1",
+      "category": [
+        "Keycards"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "B2 Door Generator 2",
+      "category": [
+        "Keycards"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "B2 Door Generator 3",
+      "category": [
+        "Keycards"
+      ],
+      "count": 1,
+      "progression": true
+    }
+  ]
+}
