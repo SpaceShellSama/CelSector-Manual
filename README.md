@@ -4,6 +4,7 @@ The intended way to play this manual is using the save file provided. While you 
 For help with general Archipelago setup search the oficial Manual for Archipelago [Discord](https://discord.gg/ptmNTJkVZ) or [GitHub](https://github.com/ManualForArchipelago/Manual/tree/main) page.
 
 If you find any issues report them in the game's thread or message me on Discord @magnanidot.
+
 # Deathlink
 If you are playing with the Death Link option enabled you should send a death whenever your Corruption gauge (the big heart) gets completely filled up. When recieving a death link pause the game and click "Exit to main menu" then click "Start game", this will send you to the last save point you used, which is exactly what happens when you "die".
 
@@ -15,8 +16,9 @@ The following items are shuffled into the pool and can be anywhere in the multiw
 - Mid-level roadblock removal. (optionally)
 - Each of the 4 unlockable cheat options. (optionally)
 - Access to gallery mode. (optionally)
+
 The following locations are checks where random items can appear:
--  Weapon Unlocks.
+- Weapon Unlocks.
 - Customization item unlocks. (from 1 to 7 checks in each clothing box)
 - Path unlocks (such as generators and keycards).
 - Defeating certain challenging rooms (like enemy gauntlets or mini-bosses).
